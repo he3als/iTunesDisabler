@@ -1,5 +1,5 @@
 # iTunes Disabler
-A batch (`.cmd`) script to 'disable/enable' iTunes for Windows. Still in development but it should be usable and work... ish.
+A batch (`.cmd`) script to 'disable/enable' iTunes for Windows. Still in development but it should be usable and work... You can find releases [here](https://github.com/he3als/iTunesDisabler/releases).
 
 **WARNING: This script is provided as is and I am not responsible for any damage done to your devices, Windows installation, iTunes installation and other Apple applications.**
 
